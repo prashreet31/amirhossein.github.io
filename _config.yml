@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Amirhossein Nazeri HomePage"
+title                    : "Amirhossein Nazeri"
 title_separator          : "-"
 name                     : &name "Amirhossein Nazeri"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "amirhossein.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pp.png"
   name             : "Amirhossein Nazeri"
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "amir-h-nazeri"
+  linkedin         : "https://www.linkedin.com/in/amir-h-nazeri/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
