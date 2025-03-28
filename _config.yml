@@ -22,10 +22,10 @@ repository               : "amirhossein.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.jpg"
+  avatar           : "pp.png"
   name             : "Amirhossein Nazeri"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI Scientist/Researcher, Data Scientist, Tech Writer"
   location         : "5 Research Dr, Greenville, SC 29607"
   employer         : "JTEKT North America"
   uri              : # URL
