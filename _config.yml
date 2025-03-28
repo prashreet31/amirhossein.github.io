@@ -22,7 +22,7 @@ repository               : "amirhossein.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.png"
+  avatar           : "pp.jpg"
   name             : "Amirhossein Nazeri"
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
