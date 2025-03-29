@@ -1,8 +1,11 @@
 ---
-layout: home
+layout: splash
 title: "Amirhossein Nazeri"
 author_profile: true
 permalink: /
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 ## 👨‍💻 About Me  
@@ -57,4 +60,5 @@ I am an **AI Engineer and Researcher** passionate about developing cutting-edge 
 🚀 **Open to Collaborations & AI Research Opportunities!** Let’s connect!  
 
 📩 [Email Me](mailto:anazeri@clemson.edu) | 🌎 [Portfolio](https://github.com/amirhnazerii)  
+
 
