@@ -115,5 +115,5 @@ Service and leadership
 ---
 
 ## Download Image
-[Click here to download the image](./image_filename.jpg)
+[Click here to download the resume](/_data/CV_job_GenAI%20(1).pdf)
 
