@@ -1,8 +1,9 @@
 ---
-layout: splash
-title: "Amirhossein Nazeri"
-author_profile: true
 permalink: /
+title: "👋🏼Hello there, I'm Amirhossein"
+excerpt: "About me"
+author_profile: true
+
 redirect_from:
   - /about/
   - /about.html
