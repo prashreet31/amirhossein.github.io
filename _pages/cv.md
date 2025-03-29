@@ -59,5 +59,5 @@ redirect_from:
 ---
 
 ## Download Image
-[Click here to download the resume](/_data/CV_job_GenAI%20(1).pdf)
+[Click here to download the resume](../_data/CV_job_GenAI(1).pdf)
 
