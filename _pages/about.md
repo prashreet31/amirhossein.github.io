@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -46,4 +46,64 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+# 🚀 Amirhossein Nazeri  
+
+📍 **Greenville, SC, USA**  
+📧 [anazeri@clemson.edu](mailto:anazeri@clemson.edu)  
+🔗 [GitHub](https://github.com/amirhnazerii) • [Google Scholar](https://scholar.google.com/citations?user=2V7M53cAAAAJ&hl=en) • [LinkedIn](https://www.linkedin.com/in/amir-h-nazeri/) • [Medium](https://medium.com/@amirhossein20n) • [YouTube](https://www.youtube.com/@amirhnazerii)  
+
+---
+
+## 👨‍💻 About Me  
+I am an **AI Engineer and Researcher** passionate about developing cutting-edge AI solutions. My work spans from **AI-powered technical assistants** to **secure AI-driven object detection**. I thrive at the intersection of **machine learning, large language models (LLMs), and AI security**, optimizing workflows to drive efficiency and innovation.
+
+---
+
+## 💼 Work Experience  
+
+### **Associate AI Engineer** - *JTEKT North America* (2024 - Present)  
+🚀 Leading AI-driven initiatives in an **Azure-based** environment:  
+- Developed an AI-powered **technical assistant** to **automate knowledge retrieval and report generation**.  
+- **Doubled** report generation speed while enhancing coherence and reference validation.  
+- Optimized **RAG pipelines**, LLM fine-tuning, and vector database integration.  
+- Tech Stack: `Azure`, `GPT-4o`, `LangChain`, `LanceDB`, `BeautifulSoup`.  
+
+### **Data Scientist** - *DataRoo LLC* (2023 - 2024)  
+📊 Spearheaded an **AI-driven medical coding & billing** system:  
+- Designed **prompt engineering & fine-tuning** strategies for accurate medical code generation.  
+- Integrated with **Azure OpenAI** to enhance medical document processing.  
+- Achieved **30% higher accuracy** and **40% lower costs** in EMR assessment compared to GPT-4o.  
+
+### **Graduate Research Assistant** - *Clemson University* (2022 - Present)  
+🔍 AI **security research** on state-of-the-art object detectors (**DETR, Faster R-CNN**):  
+- Developed **statistical anomaly detection** to secure object recognition.  
+- Experimented with adversarial attacks in **autonomous driving** datasets.  
+- Tools: `PyTorch`, `CUDA`, `Bash Scripting`, `GitHub`.  
+
+---
+
+## 🎓 Education  
+🎓 **Ph.D. in Automotive Engineering (AI-Focused)**, *Clemson University* *(GPA: 3.9/4, Expected July 2025)*  
+🎓 **M.Sc. in Electrical & Computer Engineering**, *Texas Tech University* *(GPA: 3.8/4)*  
+
+---
+
+## 📜 Selected Research  
+- **[Evaluating the Adversarial Robustness of Detection Transformers](https://arxiv.org/abs/2412.18718)**  
+- **[Exploration of TPU Architectures for Optimized Transformer in Drainage Detection](https://ieeexplore.ieee.org/abstract/document/10826077)**  
+- **[Entanglement Learning: An Information-Theoretic Framework for Adaptive Computer Vision](https://www.mdpi.com/1996-1073/17/4/868)**  
+
+---
+
+## 🛠️ Skills  
+🔹 **Machine Learning & AI:** LLMs, Computer Vision, Adversarial AI, Deep Learning  
+🔹 **Tech Stack:** Python, PyTorch, TensorFlow, LangChain, Azure, OpenAI API  
+🔹 **Data Processing:** SQL, Pandas, NumPy, BeautifulSoup, RAG Pipelines  
+
+---
+
+🚀 **Open to Collaborations & AI Research Opportunities!** Let’s connect!  
+
+📩 [Email Me](mailto:anazeri@clemson.edu) | 🌎 [Portfolio](https://github.com/amirhnazerii)
