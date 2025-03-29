@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Amirhossein Nazeri"
 author_profile: true
 permalink: /
