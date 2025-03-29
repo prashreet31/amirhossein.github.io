@@ -1,19 +1,12 @@
 ---
-layout: single
+layout: home
 title: "Amirhossein Nazeri"
 author_profile: true
 permalink: /
 ---
 
-# 🚀 Amirhossein Nazeri  
-
-📍 **Greenville, SC, USA**  
-📧 [anazeri@clemson.edu](mailto:anazeri@clemson.edu)  
-🔗 [GitHub](https://github.com/amirhnazerii) • [Google Scholar](https://scholar.google.com/citations?user=2V7M53cAAAAJ&hl=en) • [LinkedIn](https://www.linkedin.com/in/amir-h-nazeri/) • [Medium](https://medium.com/@amirhossein20n) • [YouTube](https://www.youtube.com/@amirhnazerii)  
-
----
-
 ## 👨‍💻 About Me  
+
 I am an **AI Engineer and Researcher** passionate about developing cutting-edge AI solutions. My work spans from **AI-powered technical assistants** to **secure AI-driven object detection**. I thrive at the intersection of **machine learning, large language models (LLMs), and AI security**, optimizing workflows to drive efficiency and innovation.
 
 ---
@@ -25,7 +18,7 @@ I am an **AI Engineer and Researcher** passionate about developing cutting-edge 
 - Developed an AI-powered **technical assistant** to **automate knowledge retrieval and report generation**.  
 - **Doubled** report generation speed while enhancing coherence and reference validation.  
 - Optimized **RAG pipelines**, LLM fine-tuning, and vector database integration.  
-- Tech Stack: `Azure`, `GPT-4o`, `LangChain`, `LanceDB`, `BeautifulSoup`.  
+- **Tech Stack:** `Azure`, `GPT-4o`, `LangChain`, `LanceDB`, `BeautifulSoup`.  
 
 ### **Data Scientist** - *DataRoo LLC* (2023 - 2024)  
 📊 Spearheaded an **AI-driven medical coding & billing** system:  
@@ -37,7 +30,7 @@ I am an **AI Engineer and Researcher** passionate about developing cutting-edge 
 🔍 AI **security research** on state-of-the-art object detectors (**DETR, Faster R-CNN**):  
 - Developed **statistical anomaly detection** to secure object recognition.  
 - Experimented with adversarial attacks in **autonomous driving** datasets.  
-- Tools: `PyTorch`, `CUDA`, `Bash Scripting`, `GitHub`.  
+- **Tools:** `PyTorch`, `CUDA`, `Bash Scripting`, `GitHub`.  
 
 ---
 
@@ -63,5 +56,5 @@ I am an **AI Engineer and Researcher** passionate about developing cutting-edge 
 
 🚀 **Open to Collaborations & AI Research Opportunities!** Let’s connect!  
 
-📩 [Email Me](mailto:anazeri@clemson.edu) | 🌎 [Portfolio](https://github.com/amirhnazerii)
+📩 [Email Me](mailto:anazeri@clemson.edu) | 🌎 [Portfolio](https://github.com/amirhnazerii)  
 
