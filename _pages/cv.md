@@ -87,13 +87,13 @@ Service and leadership
 - Achieved about 30% higher accuracy and 40% lower cost in EMR assessment than ChatGPT-4o.
 
 ### Graduate Research Assistant  
-**Clemson University, 2022 - present,** [Project link](#)  
+**Clemson University, 2022 - present,** [Project link](https://www.upwork.com/freelancers/~011bca7046def271ae?p=1848855747365720064)  
 - Evaluated the security of SOTA object detectors DETR, Faster RCNN under adversarial examples.
 - Tested on general and domain-specific autonomous driving scenario datasets.
 - Secured the object detection by developing statistical-based anomaly detector.
 - Utilized PyTorch for model development, Bash Scripting, GitHub, and CUDA for experimentation.
 
-**Clemson University, 2020 - 2022,** [Project link](#)  
+**Clemson University, 2020 - 2022,** [Project link](https://www.mdpi.com/1996-1073/17/4/868)  
 - Designed an AI-based smart grid and energy management system using MATLAB.
 - Developed a Deep LSTM Neural Network (DLNN) to forecast the power demand of a microgrid.
 - Assessed model performance under false data injection (FDI) and developed an integrated machine learning-based framework to enhance model resilience.
@@ -108,8 +108,8 @@ Service and leadership
 ---
 
 ## SELECTED RESEARCH PAPERS
-- **Evaluating the Adversarial Robustness of Detection Transformers,** [Paper link](#)
-- **Exploration of TPU Architectures for the Optimized Transformer in Drainage Crossing Detection,** [Link](#)
+- **Evaluating the Adversarial Robustness of Detection Transformers,** [Paper link](https://arxiv.org/abs/2412.18718)
+- **Exploration of TPU Architectures for the Optimized Transformer in Drainage Crossing Detection,** [Link](https://ieeexplore.ieee.org/abstract/document/10826077)
 - **Entanglement Learning: An Information-Theoretic Framework for Adaptive Computer Vision**
 
 ---
