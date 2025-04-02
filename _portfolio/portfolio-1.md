@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "1. Funding"
+excerpt: "Doctoral Dissertation Completion award"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Funding Agency : Clemson University(Clemson, US)
+- Date: 2024-08-15
+[More Information](https://orcid.org/0000-0002-7396-2572)
