@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-## 👨‍💻 About Me  
 
 I am an **AI Engineer and Researcher** passionate about developing cutting-edge AI solutions. My work spans from **AI-powered technical assistants** to **secure AI-driven object detection**. I thrive at the intersection of **machine learning, large language models (LLMs), and AI security**, optimizing workflows to drive efficiency and innovation.
 
