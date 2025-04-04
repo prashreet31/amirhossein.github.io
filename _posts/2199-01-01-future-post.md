@@ -8,9 +8,7 @@ tags:
   - category2
 ---
 
-# Conversational AI Chatbot
-
-This project implements a chatbot using GPT-4 Turbo, capable of handling both text and image inputs. It includes both a command-line interface (CLI) and a web-based interface using Flask. Users can interact with the chatbot via a simple web UI or directly through the terminal.
+- This project implements a chatbot using GPT-4 Turbo, capable of handling both text and image inputs. It includes both a command-line interface (CLI) and a web-based interface using Flask. Users can interact with the chatbot via a simple web UI or directly through the terminal.
 
 ## Key Features:
 
