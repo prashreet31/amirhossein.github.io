@@ -85,7 +85,7 @@ Once the app is launched, you can:
 
 ## Chatbot Interaction:
 
-![Watch the demo](https://www.youtube.com/watch?v=HxUQpRkIVw4)
+[Watch the demo](https://www.youtube.com/watch?v=HxUQpRkIVw4)
 
 
 ## Notes:
