@@ -14,32 +14,32 @@ redirect_from:
 ---
 
 ### 🎓 Doctoral Dissertation Completion Award
-- **Type:** Award  
+- **Type:** Award  ![image](../images/clemson.png){: .align:right width="300px"}
 - **Institution:** Clemson University  
 - **Location:** Clemson, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
 - **Date:** *Not specified*
-![image](../images/clemson.png)
+
 
 ---
 
 ### 🔐 Securing Machine Learning Against Adversarial Attacks for Connected and Autonomous Vehicles
-- **Type:** Grant  
+- **Type:** Grant   ![image](../images/NSF.png){: .align:right width="300px"}
 - **Institution:** U.S. National Science Foundation  
 - **Location:** Greenville, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
 - **Date:** *Not Specified*  
-![image](../images/NSF.png)
+
 
 ---
 
 ### 🚗 Transfer of Technologies for Performance Degradation Prediction and Channel Switching in Vehicular Networks under Harsh Weather Conditions and Integration with State-of-the-Art Products
-- **Type:** Grant  
+- **Type:** Grant  ![image](../images/Mobility.png){: .align:right width="300px"}
 - **Institution:** Center for Connected Multimodal Mobility  
 - **Location:** Columbia, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
 - **Date:** *Not specified*
-![image](../images/Mobility.png)
+
 
 
 ---
