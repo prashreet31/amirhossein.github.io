@@ -10,7 +10,7 @@ redirect_from:
 # Amirhossein Nazeri
 
 **Address:** 5 Research Dr, Greenville, SC 29607  
-**Email:** [anazeri@clemson.edu](mailto:anazeri@clemson.edu)  
+**Email:** [Email Me](mailto:anazeri@clemson.edu)  
 **Links:** [GitHub](#), [Google Scholar](#), [LinkedIn](#), [Medium](#), [YouTube](#)  
 
 ---

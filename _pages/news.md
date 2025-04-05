@@ -10,8 +10,11 @@ redirect_from:
 ### 🧾 Funding
 🔗 [Visit source page](https://orcid.org/0000-0002-7396-2572)
 - 2025 - Received Doctoral Dissertation Completion Award from Clemson University to support completion of doctoral studies.
-- 2024 - Awarded grant for Securing Machine Learning Against Adversarial Attacks for Connected and Autonomous Vehicles from the U.S. National Science Foundation.
+
+- 2024 - Awarded grant for Securing Machine Learning Against Adversarial Attacks for Connected and Autonomous Vehicles from the U.S National Science Foundation.
+
 - 2023 - Received funding for Transfer of Technologies for Performance Degradation Prediction and Channel Switching in Vehicular Networks under Harsh Weather Conditions and Integration with State-of-the-Art Products from the Center for Connected Multimodal Mobility
+
 ---
 
 ### Research paper and Acceptance 
