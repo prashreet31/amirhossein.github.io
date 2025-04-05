@@ -1,6 +1,3 @@
----
-author_profile: true
----
 # 🧾 Funding
 
 🔗 [Visit source page](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2200457&HistoricalAwards=false)
@@ -34,6 +31,4 @@ author_profile: true
 - **Date:** *Not specified*
 
 ---
-
-> 📌 This markdown is based on publicly available information from a funding database.
 
