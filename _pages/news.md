@@ -9,7 +9,7 @@ redirect_from:
 
 # 🧾 Funding
 
-🔗 [Visit source page](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2200457&HistoricalAwards=false)
+🔗 [Visit source page](https://orcid.org/0000-0002-7396-2572)
 
 ---
 
@@ -19,6 +19,7 @@ redirect_from:
 - **Location:** Clemson, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
 - **Date:** *Not specified*
+- ![image](../images/clemson.png)
 
 ---
 
@@ -27,8 +28,8 @@ redirect_from:
 - **Institution:** U.S. National Science Foundation  
 - **Location:** Greenville, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
-- **Date:** *Available via link*  
-- **More Info:** [NSF Award Details](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2200457&HistoricalAwards=false)
+- **Date:** *Not Specified*  
+- ![image](../images/NSF.png)
 
 ---
 
@@ -38,5 +39,7 @@ redirect_from:
 - **Location:** Columbia, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
 - **Date:** *Not specified*
+- ![image](../images/Mobility.png)
+
 
 ---
