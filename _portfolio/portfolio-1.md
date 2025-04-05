@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "NEWS"
 author_profile: true
 ---
 # 🧾 Funding
