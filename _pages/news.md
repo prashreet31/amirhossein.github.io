@@ -19,7 +19,7 @@ redirect_from:
 - **Location:** Clemson, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
 - **Date:** *Not specified*
-- ![image](../images/clemson.png)
+![image](../images/clemson.png)
 
 ---
 
@@ -29,7 +29,7 @@ redirect_from:
 - **Location:** Greenville, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
 - **Date:** *Not Specified*  
-- ![image](../images/NSF.png)
+![image](../images/NSF.png)
 
 ---
 
@@ -39,7 +39,7 @@ redirect_from:
 - **Location:** Columbia, South Carolina, US  
 - **Recipient:** Amirhossein Nazeri  
 - **Date:** *Not specified*
-- ![image](../images/Mobility.png)
+![image](../images/Mobility.png)
 
 
 ---
