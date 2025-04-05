@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "NEWS"
 author_profile: true
 ---
 # 🧾 Funding
