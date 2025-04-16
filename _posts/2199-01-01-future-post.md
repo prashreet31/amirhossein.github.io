@@ -1,6 +1,6 @@
 ---
 title: 'MultiModel-Interactive-LLM-Chatbot'
-date: 02-12-2025
+date: 2025-02-12
 permalink: /posts/2012/08/blog-post-5/
 excerpt: "This project implements a chatbot using GPT-4 Turbo, capable of handling both text and image inputs. It includes both a command-line interface (CLI) and a web-based interface using Flask. Users can interact with the chatbot via a simple web UI or directly through the terminal."
 tags:
