@@ -11,7 +11,7 @@ redirect_from:
 
 **Address:** 5 Research Dr, Greenville, SC 29607  
 **Email:** [Email Me](mailto:anazeri@clemson.edu)  
-**Links:** [GitHub](#), [Google Scholar](#), [LinkedIn](#), [Medium](#), [YouTube](#)  
+**Links:** [GitHub](https://github.com/amirhnazerii), [Google Scholar](https://scholar.google.com/citations?hl=en&user=2V7M53cAAAAJ&view_op=list_works&sortby=pubdate), [LinkedIn](http://www.linkedin.com/in/amir-h-nazeri)  
 
 ---
 
@@ -59,5 +59,5 @@ redirect_from:
 ---
 
 ## Download Image
-[Click here to download the resume](CV_job_GenAI.pdf)
+[Click here to download the resume](_pages/CV_job_GenAI.pdf)
 
