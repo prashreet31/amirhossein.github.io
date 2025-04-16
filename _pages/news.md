@@ -21,12 +21,12 @@ redirect_from:
 
 
 - 2024/12/25 - Our paper titled: Evaluating the Adversarial Robustness of Detection Transformers published on arXiv.
-![Image](../images/paperShow1.png)
+- ![Image](../images/paperShow1.png)
 
 - 2024/12/16 - Our paper titled: Development of Predictive Mathematical Model for Millimeter Wave Degradation in Sandstorm Regions presented at the 2024 IEEE WiSEE Conference.
 
 - 2024/12/15 - Our paper titled: Exploration of TPU Architectures for Optimized Transformer in Drainage Crossing Detection presented at the 2024 IEEE BigData Conference. 
-![Image](../images/paperShow2.png)
+- ![Image](../images/paperShow2.png)
 
 - 2024/2/13 - Our paper titled: Design, Detection, and Countermeasure of Frequency Spectrum Attack in Microgrid Energy Management published in Energies Journal.
 
